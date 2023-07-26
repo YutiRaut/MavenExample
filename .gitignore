@@ -1,0 +1,3 @@
+# Project exclude paths
+/my-util/target/
+/target/
